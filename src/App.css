@@ -1,0 +1,153 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.datetimepick {
+  display: flex;
+  justify-content: space-between;
+}
+.tsagburtgehtitle {
+  font-size: 18;
+  font-weight: bold;
+}
+.aBtn {
+  margin-right: 5px;
+}
+.ajiltanName {
+  font-weight: bold;
+}
+td {
+  font-size: 16px;
+  font-weight: 600;
+}
+.mynav {
+  font-size: large;
+  font-weight: bold;
+}
+.hailtUstgahBtns {
+  display: flex;
+  justify-content: center;
+}
+.paginationsButtons {
+  float: right;
+}
+.paginationsButtonsHaih {
+  float: left;
+  margin-bottom: 20px;
+}
+.paginationStart {
+  margin-right: 5px;
+}
+.paginationNext {
+  margin-right: 5px;
+}
+.paginationPageNumber {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.daySelector {
+  border: 1px solid #ccc;
+  padding: 10px 15px 10px 15px;
+  text-align: center;
+  cursor: pointer;
+  font-weight: bold;
+}
+.firstDay {
+  background-color: #44b05d;
+  border: none;
+  color: white;
+  font-weight: bold;
+  box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.15) !important;
+}
+.daySelectorContainer {
+  margin-bottom: 20px;
+}
+.sDay {
+  font-size: 40px;
+}
+.sMount {
+  font-size: 15px;
+}
+.sYear {
+  font-size: 15px;
+}
+.mr15 {
+  margin-right: 15px;
+}
+.ml15 {
+  margin-left: 15px;
+}
+.mr5 {
+  margin-right: 5px;
+}
+.ml5 {
+  margin-left: 5px;
+}
+.width100 {
+  width: 100%;
+}
+.filterControllersEmpName {
+  display: flex;
+  justify-content: space-between;
+}
+.menuItemContainer.nav-item a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.menuIconContainer {
+  width: 40px;
+}
+
+.menuIconContainer.active {
+  width: 60px;
+}
+.restricted {
+  text-align: center;
+}
+.mytoast {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+.userDelete {
+  float: right;
+}
+.userEmail {
+  font-weight: bold;
+}
+.item-user {
+  display: flex;
+  justify-content: space-between;
+}
+.float-right {
+  float: right;
+}
+.emptask-count-text {
+  font-weight: bold;
+  font-size: 24px;
+  margin-left: 10px;
+}
+.emptask-container a {
+  font-size: 1em;
+  text-decoration: none;
+}
+.emptask-count-empname {
+  color: black;
+}
+.emptask-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+}
+.emptask-container a {
+  align-items: center;
+  display: flex;
+}
+.filterDate {
+  margin-left: 30px;
+  float: left;
+}
+.export {
+  float: right;
+}

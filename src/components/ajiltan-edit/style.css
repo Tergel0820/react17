@@ -1,0 +1,15 @@
+.ajiltan-item{
+    display: flex;
+    justify-content: space-between;
+    border:1px #ccc solid;
+    padding: 20px;
+    border-radius: 5px;
+    align-items: center;
+}
+.ajiltan-uilchluulegch{
+    background-color: #44b05d;
+    padding:5px 10px 5px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
